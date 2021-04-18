@@ -1,4 +1,4 @@
-# Stock Analyzer
+# Stonks Analyzer
 
 ## About
 An application to provide users with subscribable services that will make navigating financial decisions easier by giving real-time data.
